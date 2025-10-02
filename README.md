@@ -26,9 +26,6 @@ It allows you to upload a CSV dataset and automatically generate **12 unique vis
 
 ---
 
-## 🛠️ Installation
+## 🛠️ STREAM LIT LINK :
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/eda-streamlit.git
-   cd eda-streamlit
+https://j8vjy98ebysrgq4azodtbj.streamlit.app/
